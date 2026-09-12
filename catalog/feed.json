@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-12",
+  "tracks": [
+    {
+      "id": "shiv-chalisa-ia",
+      "title": "Shiv Chalisa",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/shiv-chalisa/Shiv%20Chalisa.mp3",
+      "duration": 468,
+      "deity": "mahadev",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "shiv-chalisa"
+    },
+    {
+      "id": "shiv-chalisa-fast",
+      "title": "Shiv Chalisa (Super Fast)",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/tiiu_shiv-chalisa-super-fast-shiv-chalisa-shivratri-2020/Shiv%20Chalisa%20Super%20Fast%20%20%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%B8%E0%A4%BE%20%20%20Shiv%20Chalisa%20%20%20Shivratri%202020.mp3",
+      "duration": 240,
+      "deity": "mahadev",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "tiiu_shiv-chalisa-super-fast-shiv-chalisa-shivratri-2020",
+      "license": "CC0"
+    },
+    {
+      "id": "durga-chalisa-ia",
+      "title": "Durga Chalisa",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/DurgaChalisa_201709/Durga%20Chalisa.mp3",
+      "duration": 515,
+      "deity": "devi",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "DurgaChalisa_201709"
+    },
+    {
+      "id": "durga-chalisa-full",
+      "title": "Durga Chalisa (Full Path)",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/DurgaChalisa/Durga%20Chalisa.mp3",
+      "duration": 964,
+      "deity": "devi",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "DurgaChalisa"
+    },
+    {
+      "id": "durga-chalisa-jyotirpath",
+      "title": "Durga Chalisa (JyotirPath)",
+      "artist": "JyotirPath",
+      "url": "https://archive.org/download/durga-chalisa_202608/Durga%20Chalisa%20JyotirPath.mp3",
+      "duration": 599,
+      "deity": "devi",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "durga-chalisa_202608"
+    },
+    {
+      "id": "shani-chalisa",
+      "title": "Shani Chalisa",
+      "artist": "JyotirPath",
+      "url": "https://archive.org/download/shani-chalisa-jyotir-path/Shani-Chalisa-JyotirPath.mp3",
+      "duration": 556,
+      "deity": "general",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "shani-chalisa-jyotir-path"
+    },
+    {
+      "id": "ram-naam-bhajan-13",
+      "title": "Shri Ram Naam Bhajan (13 min)",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/ShriRamNaamBhajanMP3/13%20MINS%20LONG.mp3",
+      "duration": 816,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "bhajan",
+        "dhun"
+      ],
+      "album": "Shri Ram Naam Bhajan",
+      "source": "Internet Archive",
+      "itemId": "ShriRamNaamBhajanMP3",
+      "license": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "kamala-lochana",
+      "title": "Kamala Lochana",
+      "artist": "Meera Jiji",
+      "url": "https://archive.org/download/RamParivarBhajans/01-Kamala_Lochana-MeeraJiji.MP3",
+      "duration": 332,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "bhajan"
+      ],
+      "album": "Ram Parivar Bhajans",
+      "source": "Internet Archive",
+      "itemId": "RamParivarBhajans"
+    },
+    {
+      "id": "deen-bandhu-deenanath",
+      "title": "Deen Bandhu Deenanath",
+      "artist": "Piyush Jijaji",
+      "url": "https://archive.org/download/RamParivarBhajans/04-deen-bandhu-deenanath-PiyushJijaji.MP3",
+      "duration": 205,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "bhajan"
+      ],
+      "album": "Ram Parivar Bhajans",
+      "source": "Internet Archive",
+      "itemId": "RamParivarBhajans"
+    },
+    {
+      "id": "krishna-bhajan-1",
+      "title": "Krishna Bhajan 1",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/KrishinaBhajan/KrishinaBhajan1.mp3",
+      "duration": 287,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "bhajan"
+      ],
+      "album": "Krishna Bhajan",
+      "source": "Internet Archive",
+      "itemId": "KrishinaBhajan"
+    }
+  ],
+  "removed": []
+}
