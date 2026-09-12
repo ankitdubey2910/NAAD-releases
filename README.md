@@ -17,6 +17,9 @@ Aartis, bhajans, mantras, chalisas, stotrams · Sunderkand, Ramcharitmanas, Bhag
 - **Hindi UI**, 6 themes, morning/evening aarti reminders
 - No ads · no tracking · optional account for sync
 
+## 🎶 Song gallery (auto-updating)
+New devotional songs are published in [`catalog/feed.json`](catalog/feed.json). Every NAAD phone checks it automatically (about every 6 hours, or instantly via *Settings → Check for updates*) and adds the new songs to its library — no app update needed. New songs show on Home under **"New in NAAD"**.
+
 ## 🔐 Privacy
 [Privacy policy](https://ankitdubey2910.github.io/NAAD-releases/privacy-policy.html)
 
