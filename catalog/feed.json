@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-09-12",
+  "version": 2,
+  "updatedAt": "2026-09-14",
   "tracks": [
     {
       "id": "shiv-chalisa-ia",
@@ -154,6 +154,66 @@
       "album": "Krishna Bhajan",
       "source": "Internet Archive",
       "itemId": "KrishinaBhajan"
+    },
+    {
+      "id": "lakshmi-chalisa",
+      "title": "Lakshmi Chalisa",
+      "artist": "JyotirPath",
+      "url": "https://archive.org/download/lakshmi-chalisa-jyotir-path/Lakshmi-Chalisa-JyotirPath.mp3",
+      "duration": 655,
+      "deity": "devi",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "lakshmi-chalisa-jyotir-path"
+    },
+    {
+      "id": "vishnu-chalisa",
+      "title": "Vishnu Chalisa",
+      "artist": "JyotirPath",
+      "url": "https://archive.org/download/vishnu-chalisa-jyotir-path/Vishnu-Chalisa-JyotirPath.mp3",
+      "duration": 453,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "vishnu-chalisa-jyotir-path"
+    },
+    {
+      "id": "bhairav-chalisa",
+      "title": "Bhairav Chalisa",
+      "artist": "JyotirPath",
+      "url": "https://archive.org/download/bhairav-chalisa-jyotir-path/Bhairav-Chalisa-JyotirPath.mp3",
+      "duration": 437,
+      "deity": "mahadev",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "bhairav-chalisa-jyotir-path"
+    },
+    {
+      "id": "hanuman-chalisa-bhola",
+      "title": "Hanuman Chalisa (Kashi chorus)",
+      "artist": "Madhav Bhola & Group",
+      "url": "https://archive.org/download/HanumanChalisa-VnsBhola/HanumanChalisa-Madhav-Bhola.mp3",
+      "duration": 762,
+      "deity": "vishnu",
+      "lang": "hi",
+      "tags": [
+        "chalisa"
+      ],
+      "album": "Chalisa Sangrah",
+      "source": "Internet Archive",
+      "itemId": "HanumanChalisa-VnsBhola"
     }
   ],
   "removed": []
