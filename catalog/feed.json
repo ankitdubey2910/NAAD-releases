@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-09-14",
+  "version": 3,
+  "updatedAt": "2026-10-02",
   "tracks": [
     {
       "id": "shiv-chalisa-ia",
@@ -214,6 +214,99 @@
       "album": "Chalisa Sangrah",
       "source": "Internet Archive",
       "itemId": "HanumanChalisa-VnsBhola"
+    },
+    {
+      "id": "shankh-dhwani",
+      "title": "Shankh Dhwani",
+      "artist": "NAAD Studio",
+      "url": "https://raw.githubusercontent.com/ankitdubey2910/NAAD-releases/main/catalog/sounds/shankh.wav",
+      "duration": 14,
+      "deity": "general",
+      "lang": "sa",
+      "tags": [
+        "dhun"
+      ],
+      "album": "Sacred Sounds",
+      "source": "NAAD Studio",
+      "license": "Original — NAAD Studio"
+    },
+    {
+      "id": "dhol-tasha",
+      "title": "Dhol-Tasha",
+      "artist": "NAAD Studio",
+      "url": "https://raw.githubusercontent.com/ankitdubey2910/NAAD-releases/main/catalog/sounds/dhol-tasha.wav",
+      "duration": 14,
+      "deity": "ganesh",
+      "lang": "hi",
+      "tags": [
+        "dhun"
+      ],
+      "album": "Sacred Sounds",
+      "source": "NAAD Studio",
+      "license": "Original — NAAD Studio"
+    },
+    {
+      "id": "mandir-ghanti",
+      "title": "Mandir Ghanti",
+      "artist": "NAAD Studio",
+      "url": "https://raw.githubusercontent.com/ankitdubey2910/NAAD-releases/main/catalog/sounds/mandir-ghanti.wav",
+      "duration": 10,
+      "deity": "general",
+      "lang": "sa",
+      "tags": [
+        "dhun"
+      ],
+      "album": "Sacred Sounds",
+      "source": "NAAD Studio",
+      "license": "Original — NAAD Studio"
+    },
+    {
+      "id": "shehnai-bismillah-1",
+      "title": "Shehnai Recital — Raga Based",
+      "artist": "Ustad Bismillah Khan",
+      "url": "https://archive.org/download/dni.ncaa.SNA-1-ACD/SNA-1-ACD_TRACK_2.mp3",
+      "duration": 565,
+      "deity": "general",
+      "lang": "sa",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Hindustani Instrumental",
+      "source": "Internet Archive",
+      "itemId": "dni.ncaa.SNA-1-ACD",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "id": "shehnai-bismillah-2",
+      "title": "Shehnai (Live)",
+      "artist": "Ustad Bismillah Khan",
+      "url": "https://archive.org/download/Hindi-instrumentalVoice-bismillaKhanShehnai/01Track1.mp3",
+      "duration": 1722,
+      "deity": "general",
+      "lang": "sa",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Hindustani Instrumental",
+      "source": "Internet Archive",
+      "itemId": "Hindi-instrumentalVoice-bismillaKhanShehnai",
+      "license": "CC BY-NC-ND 3.0"
+    },
+    {
+      "id": "tabla-sarangi",
+      "title": "Tabla & Sarangi — Beat and Bow",
+      "artist": "Traditional",
+      "url": "https://archive.org/download/G_LAL_CHA_1/G_LAL_CHA_1_16_vbr.mp3",
+      "duration": 2331,
+      "deity": "general",
+      "lang": "hi",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Hindustani Instrumental",
+      "source": "Internet Archive",
+      "itemId": "G_LAL_CHA_1",
+      "license": "CC BY-NC-ND 3.0"
     }
   ],
   "removed": []
