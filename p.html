@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Open in NAAD</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#120821;color:#F7F2FF;font-family:system-ui,sans-serif;text-align:center}
+.c{padding:28px;max-width:360px}
+h1{letter-spacing:6px;margin:0 0 6px}
+p{color:#BCA9DD;line-height:1.5}
+a.b{display:block;margin:12px 0;padding:14px;border-radius:999px;font-weight:800;text-decoration:none}
+.p{background:#FFD777;color:#1a0e2e}.g{border:1px solid #8877AC;color:#F7F2FF}
+</style></head><body><div class="c">
+<h1>NAAD</h1><p>Feel the Sound, Without Boundaries.</p>
+<a class="b p" id="open" href="#">Open in NAAD</a>
+<a class="b g" href="https://github.com/ankitdubey2910/NAAD-releases/releases/latest">Get the NAAD app (Android)</a>
+<p style="font-size:13px">Opening the song in the app&hellip; if nothing happens, install NAAD first, then tap this link again.</p>
+</div>
+<script>
+(function(){
+  var q=location.search||"";
+  var app="naad://play"+q;
+  var fb=encodeURIComponent("https://github.com/ankitdubey2910/NAAD-releases/releases/latest");
+  var isAndroid=/android/i.test(navigator.userAgent);
+  var target=isAndroid
+    ? "intent://play"+q+"#Intent;scheme=naad;package=com.heaventechnosystem.naad;S.browser_fallback_url="+fb+";end"
+    : app;
+  document.getElementById("open").href=target;
+  if(q.length>1){ setTimeout(function(){ location.href=target; },300); }
+})();
+</script></body></html>
