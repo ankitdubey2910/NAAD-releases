@@ -1,0 +1,25 @@
+name: Grow song feed
+on:
+  schedule:
+    - cron: '0 3 * * 1' # every Monday 03:00 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/grow-feed.mjs catalog/feed.json 40
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "naad-feed-bot"
+            git config user.email "naad-feed-bot@users.noreply.github.com"
+            git add catalog/feed.json
+            git commit -m "Weekly feed growth"
+            git push
+          fi
