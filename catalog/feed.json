@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-10-05T12:50:44.217Z",
+  "version": 6,
+  "updatedAt": "2026-10-12T10:28:52.397Z",
   "tracks": [
     {
       "id": "shiv-chalisa-ia",
@@ -3908,6 +3908,238 @@
       "image": "https://usercontent.jamendo.com?type=album&id=168148&width=300&trackid=1446040",
       "source": "Jamendo",
       "itemId": "1446040",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2340168",
+      "title": "Abracadabra.80Bpm",
+      "artist": "Hodon",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2340168&format=mp32&from=app-101eed8d",
+      "duration": 171,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "La Revolución de la Ternura",
+      "genre": "hiphop",
+      "image": "https://usercontent.jamendo.com?type=album&id=644692&width=300&trackid=2340168",
+      "source": "Jamendo",
+      "itemId": "2340168",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2338293",
+      "title": "Paso a Paso.99Bpm",
+      "artist": "BIG Hodon",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2338293&format=mp32&from=app-101eed8d",
+      "duration": 101,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "La Música que nos Une",
+      "genre": "pop",
+      "image": "https://usercontent.jamendo.com?type=album&id=643949&width=300&trackid=2338293",
+      "source": "Jamendo",
+      "itemId": "2338293",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2335943",
+      "title": "shabana ppal",
+      "artist": "Sergi Moya",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2335943&format=mp32&from=app-101eed8d",
+      "duration": 79,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "shabana ppal",
+      "genre": "oriental",
+      "image": "https://usercontent.jamendo.com?type=album&id=642810&width=300&trackid=2335943",
+      "source": "Jamendo",
+      "itemId": "2335943",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2333332",
+      "title": "Bhaagam Bhaag",
+      "artist": "Ashay Raut",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2333332&format=mp32&from=app-101eed8d",
+      "duration": 192,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Bhaagam Bhaag",
+      "genre": "hiphop",
+      "image": "https://usercontent.jamendo.com?type=album&id=641721&width=300&trackid=2333332",
+      "source": "Jamendo",
+      "itemId": "2333332",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2329064",
+      "title": "Удивительный объект",
+      "artist": "Любовный скотч",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2329064&format=mp32&from=app-101eed8d",
+      "duration": 149,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Удивительный объект",
+      "genre": "electronic",
+      "image": "https://usercontent.jamendo.com?type=album&id=639455&width=300&trackid=2329064",
+      "source": "Jamendo",
+      "itemId": "2329064",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2325099",
+      "title": "Hatha-Yoga (Wen Lin, Gerd and Kalondi)",
+      "artist": "Youkaifox",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2325099&format=mp32&from=app-101eed8d",
+      "duration": 507,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Heroes and Emotions",
+      "genre": "world",
+      "image": "https://usercontent.jamendo.com?type=album&id=637824&width=300&trackid=2325099",
+      "source": "Jamendo",
+      "itemId": "2325099",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2325013",
+      "title": "Rasa",
+      "artist": "ill effects",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2325013&format=mp32&from=app-101eed8d",
+      "duration": 196,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Rasa",
+      "genre": "breakbeat",
+      "image": "https://usercontent.jamendo.com?type=album&id=637788&width=300&trackid=2325013",
+      "source": "Jamendo",
+      "itemId": "2325013",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2324673",
+      "title": "Exotic Goa",
+      "artist": "Nick Gordy",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2324673&format=mp32&from=app-101eed8d",
+      "duration": 204,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Exotic Goa",
+      "genre": "pop",
+      "image": "https://usercontent.jamendo.com?type=album&id=637685&width=300&trackid=2324673",
+      "source": "Jamendo",
+      "itemId": "2324673",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2321128",
+      "title": "Whispers In Sand",
+      "artist": "Aonescape",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2321128&format=mp32&from=app-101eed8d",
+      "duration": 85,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Brave Empire",
+      "genre": "world",
+      "image": "https://usercontent.jamendo.com?type=album&id=635081&width=300&trackid=2321128",
+      "source": "Jamendo",
+      "itemId": "2321128",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2318667",
+      "title": "PSYchedelic LOfi CIthare BIen NEureux",
+      "artist": "thomas saliba",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2318667&format=mp32&from=app-101eed8d",
+      "duration": 179,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "PSYchedelic LOfi CIthare BIen NEureux",
+      "genre": "acidjazz",
+      "image": "https://usercontent.jamendo.com?type=album&id=633386&width=300&trackid=2318667",
+      "source": "Jamendo",
+      "itemId": "2318667",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2316830",
+      "title": "Dans le mille",
+      "artist": "Sébastien GRAMOND",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2316830&format=mp32&from=app-101eed8d",
+      "duration": 446,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "SUPERBIRTHDAY - 40ème anniversaire de SUPERBEBE",
+      "genre": "psychedelicrock",
+      "image": "https://usercontent.jamendo.com?type=album&id=632578&width=300&trackid=2316830",
+      "source": "Jamendo",
+      "itemId": "2316830",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2314868",
+      "title": "After The Silence - LoFi Folk Reflective Instrumental",
+      "artist": "Jim Guittard",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2314868&format=mp32&from=app-101eed8d",
+      "duration": 219,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Volume 2 (Synth, Ambient and LoFi Blues)",
+      "genre": "folk",
+      "image": "https://usercontent.jamendo.com?type=album&id=631676&width=300&trackid=2314868",
+      "source": "Jamendo",
+      "itemId": "2314868",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2345305",
+      "title": "Королевство зеркал",
+      "artist": "EVMENOFF",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2345305&format=mp32&from=app-101eed8d",
+      "duration": 297,
+      "deity": "general",
+      "lang": "hi",
+      "tags": [],
+      "album": "Маяк",
+      "genre": "electronic",
+      "image": "https://usercontent.jamendo.com?type=album&id=646977&width=300&trackid=2345305",
+      "source": "Jamendo",
+      "itemId": "2345305",
       "license": "Creative Commons"
     }
   ],
