@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-10-12T10:28:52.397Z",
+  "version": 7,
+  "updatedAt": "2026-10-26T08:40:43.082Z",
   "tracks": [
     {
       "id": "shiv-chalisa-ia",
@@ -4140,6 +4140,22 @@
       "image": "https://usercontent.jamendo.com?type=album&id=646977&width=300&trackid=2345305",
       "source": "Jamendo",
       "itemId": "2345305",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2348153",
+      "title": "Holi Colors (Indian Trap)",
+      "artist": "Janevo",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2348153&format=mp32&from=app-101eed8d",
+      "duration": 130,
+      "deity": "general",
+      "lang": "hi",
+      "tags": [],
+      "album": "Holi Colors (Indian Trap)",
+      "genre": "indian",
+      "image": "https://usercontent.jamendo.com?type=album&id=648245&width=300&trackid=2348153",
+      "source": "Jamendo",
+      "itemId": "2348153",
       "license": "Creative Commons"
     }
   ],
