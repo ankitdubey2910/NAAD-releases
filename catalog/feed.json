@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-10-26T08:40:43.082Z",
+  "version": 8,
+  "updatedAt": "2026-11-02T10:44:33.820Z",
   "tracks": [
     {
       "id": "shiv-chalisa-ia",
@@ -4156,6 +4156,42 @@
       "image": "https://usercontent.jamendo.com?type=album&id=648245&width=300&trackid=2348153",
       "source": "Jamendo",
       "itemId": "2348153",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2349792",
+      "title": "Kali Yuga (Indian Trap)",
+      "artist": "Janevo",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2349792&format=mp32&from=app-101eed8d",
+      "duration": 141,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Kali Yuga (Indian Trap)",
+      "genre": "world",
+      "image": "https://usercontent.jamendo.com?type=album&id=648884&width=300&trackid=2349792",
+      "source": "Jamendo",
+      "itemId": "2349792",
+      "license": "Creative Commons"
+    },
+    {
+      "id": "jam-2344918",
+      "title": "Sita Ram Tarang | Hindu Festive Music",
+      "artist": "Kontraa",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=2344918&format=mp32&from=app-101eed8d",
+      "duration": 224,
+      "deity": "general",
+      "lang": "en",
+      "tags": [
+        "instrumental"
+      ],
+      "album": "Sita Ram Tarang | Hindu Festive Music",
+      "genre": "pop",
+      "image": "https://usercontent.jamendo.com?type=album&id=646873&width=300&trackid=2344918",
+      "source": "Jamendo",
+      "itemId": "2344918",
       "license": "Creative Commons"
     }
   ],
