@@ -21,7 +21,17 @@ const PLAN = [
   { tag: 'bollywood', tags: [], lang: 'hi', deity: 'general' },
   { tag: 'hindi', tags: [], lang: 'hi', deity: 'general' },
   { tag: 'indian', tags: [], lang: 'hi', deity: 'general' },
+  { tag: 'devotional', tags: ['bhajan'], lang: 'hi', deity: 'general' },
+  { tag: 'kirtan', tags: ['bhajan'], lang: 'hi', deity: 'general' },
+  { tag: 'punjabi', tags: [], lang: 'hi', deity: 'general' },
+  { tag: 'bhangra', tags: [], lang: 'hi', deity: 'general' },
+  { tag: 'hiphop', tags: [], lang: 'en', deity: 'general' },
+  { tag: 'pop', tags: [], lang: 'en', deity: 'general' },
+  { tag: 'rock', tags: [], lang: 'en', deity: 'general' },
+  { tag: 'lofi', tags: [], lang: 'en', deity: 'general' },
+  { tag: 'chillout', tags: [], lang: 'en', deity: 'general' },
 ];
+const PAGES = [0, 30, 60]; // go 3 pages deep per tag so newer-than-last-run releases are not missed
 
 const feed = JSON.parse(readFileSync(FEED, 'utf8'));
 const have = new Set(feed.tracks.map((t) => String(t.id).replace(/^feed-/, '')));
@@ -29,8 +39,9 @@ const have = new Set(feed.tracks.map((t) => String(t.id).replace(/^feed-/, '')))
 const art = (u) =>
   u && /usercontent\.jamendo\.com/.test(u) && !/[?&]width=/.test(u) ? `${u}${u.includes('?') ? '&' : '?'}width=400` : u;
 
-async function jamendo(tag, order) {
+async function jamendo(tag, order, offset = 0) {
   const qs = new URLSearchParams({
+    offset: String(offset),
     client_id: CLIENT_ID,
     format: 'json',
     fuzzytags: tag,
@@ -47,10 +58,13 @@ async function jamendo(tag, order) {
 const added = [];
 for (const p of PLAN) {
   if (added.length >= MAX_NEW) break;
-  for (const order of ['releasedate_desc', 'popularity_month']) {
+  for (const [order, offset] of [
+    ...PAGES.map((o) => ['releasedate_desc', o]),
+    ['popularity_month', 0],
+  ]) {
     let rows = [];
     try {
-      rows = await jamendo(p.tag, order);
+      rows = await jamendo(p.tag, order, offset);
     } catch (e) {
       console.warn(String(e));
       continue;
